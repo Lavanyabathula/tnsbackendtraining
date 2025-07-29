@@ -1,7 +1,7 @@
 package com.tns.kprit.interfacedemo;
 
 public class BankImple implements Bank{
-
+    //instance variable
 	double balance=1000;
 	//double amount;
 	
